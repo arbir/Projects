@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\literature blog\literature blog\bin\literature blog.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\literature blog\literature blog\bin\literature blog.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\literature blog\literature blog\obj\Debug\literature blog.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\literature blog\literature blog\obj\Debug\literature blog.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\literature blog\literature blog\obj\Debug\literature blog.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\literature blog - Copy\literature blog\obj\Debug\literature blog.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\literature blog - Copy\literature blog\obj\Debug\literature blog.dll
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\literature blog - Copy\literature blog\bin\literature blog.dll
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\literature blog - Copy\literature blog\bin\literature blog.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\literature blog - Copy\literature blog\obj\Debug\literature blog.pdb
